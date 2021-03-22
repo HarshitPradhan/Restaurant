@@ -1,0 +1,15 @@
+.navbar-height-nav
+{
+    height: 50px;
+}
+ul li a:hover
+{
+    border-bottom: 5px solid rgb(100, 100, 228);
+}
+@media all and (min-width: 300px) and (max-width: 991px)
+{
+    .navbar-height-nav
+    {
+        height: 260px;
+    }
+}
